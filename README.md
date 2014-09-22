@@ -1,9 +1,22 @@
 atmospheric
 ===========
 
-atmospheric pressure
+atmospheric pressure at given altitude.
 
 ![atmospheric](atmospheric.png)
+
+
+```js
+var pressure = require('atmospheric');
+
+pressure(0);
+// => 1013.25 hPa
+
+pressure(1000);
+// => 898.76 hPa
+```
+
+ > temperature and humidity also affect the atmospheric pressure.
 
 ## License
 
