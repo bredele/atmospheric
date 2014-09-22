@@ -4,6 +4,7 @@
  *
  * @param {m} altitude
  * @return {hPa}
+ * @api public
  */
 
 module.exports = function(altitude) {
