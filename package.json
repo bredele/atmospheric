@@ -1,0 +1,31 @@
+{
+  "name": "atmospheric",
+  "version": "0.0.0",
+  "description": "atmospheric pressure",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bredele/atmospheric.git"
+  },
+  "keywords": [
+    "pressure",
+    "satmospheric",
+    "density"
+  ],
+  "author": "Olivier Wietrich <olivier.wietrich@gmail.com> (http://github.com/bredele)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/atmospheric/issues"
+  },
+  "homepage": "https://github.com/bredele/atmospheric",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "round" : "bredele/round"
+  }
+}
