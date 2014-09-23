@@ -1,7 +1,7 @@
 atmospheric
 ===========
 
-atmospheric pressure at given altitude.
+atmospheric pressure at given altitude given by the international standard atmosphere.
 
 ![atmospheric](pressure.png)
 
@@ -16,7 +16,8 @@ pressure(1000);
 // => 898.76 hPa
 ```
 
- > temperature and humidity also affect the atmospheric pressure.
+The Earth's atmosphere is subject to many variations of temperature and pressure. 
+Those value change over a wide range of factors such as sunshine, humidity, winds, ocean currents. This is why it has been established to provide a common reference with the altitude as the only factor.
 
 ## License
 
