@@ -3,7 +3,7 @@ atmospheric
 
 atmospheric pressure at given altitude.
 
-![atmospheric](atmospheric.png)
+![atmospheric](pressure.png)
 
 
 ```js
