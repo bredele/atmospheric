@@ -1,7 +1,7 @@
 atmospheric
 ===========
 
-atmospheric pressure at given altitude given by the international standard atmosphere.
+Here's the atmospheric pressure at given altitude given by the international standard atmosphere.
 
 ![atmospheric](pressure.png)
 
